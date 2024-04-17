@@ -2,6 +2,7 @@
 consultar una base de Datos Mysql usando langchain
 
 recuerda configurar el archivo .env con las variables de entorno
+***********************+
 
 GOOGLE_API_KEY=LA_LLAVE_GOOGLE
 HOST_BD=DIRECCION de base de datos
